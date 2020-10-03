@@ -8,7 +8,8 @@ import "./App.css";
 // import FuntioEvents from "./HandleEvents/FuntioEvents";
 // import ClassEvent from "./HandleEvents/ClassEvent";
 // import DemoConditionalAndState from "./DemoLogin/DemoConditionalAndState";
-import BaiTapChonMauXe from "./BaiTapChonMauXe";
+// import BaiTapChonMauXe from "./BaiTapChonMauXe";
+import BaiTapGlass from "./BaiTapGlass";
 function App() {
   return (
     <div>
@@ -19,7 +20,8 @@ function App() {
       <FuntioEvents />
       <ClassEvent/> */}
       {/* <DemoConditionalAndState/> */}
-      <BaiTapChonMauXe/>
+      {/* <BaiTapChonMauXe/> */}
+      <BaiTapGlass/>
     </div>
   );
 }
